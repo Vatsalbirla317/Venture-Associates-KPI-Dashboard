@@ -60,7 +60,7 @@ The goal is to enable data-driven decisions to optimize production efficiency, r
 
 ## 🔗 LinkedIn Post
 
-[Click here to view the post](https://www.linkedin.com/in/vatsalbirla317) – Like & share if you found it insightful!
+[Click here to view the post](https://www.linkedin.com/posts/vatsal-birla-278840243_powerbi-businessintelligence-kpianalytics-activity-7352775065450508289-sciW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADx1VXwBxYfc7g_7Tr4Hnsu7-7DyFDBrnSo) – Like & share if you found it insightful!
 
 ---
 
