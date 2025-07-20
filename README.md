@@ -17,6 +17,8 @@ This repository contains a Power BI dashboard built as part of my internship at 
 
 ## 📁 File Structure
 - `VentureAssociates_Dashboard.pbix` – Main Power BI report
+- Case Study pdf
+- Csv Data file 
 - `README.md` – Project overview
 
 ## 🔗 LinkedIn Post
